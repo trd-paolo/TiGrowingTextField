@@ -1,0 +1,563 @@
+TTiGrowingTextField
+v6
+r1
+cCheck dependencies
+cProcessPCH /var/folders/r7/glqfxst16sb1b1ldrq633_f80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/NetIamyellowTigrowingtextfield_Prefix-dyjxfqstqmazjxfycixxekgezdqn/NetIamyellowTigrowingtextfield_Prefix.pch.pch NetIamyellowTigrowingtextfield_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/r7/glqfxst16sb1b1ldrq633_f80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/NetIamyellowTigrowingtextfield_Prefix-cpimiewdlampmkamhjnmzrhcoirw/NetIamyellowTigrowingtextfield_Prefix.pch.pch NetIamyellowTigrowingtextfield_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/Objects-normal/i386/NetIamyellowTigrowingtextfieldModule.o /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/Classes/NetIamyellowTigrowingtextfieldModule.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/Objects-normal/i386/NetIamyellowTigrowingtextfieldModuleAssets.o /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/Classes/NetIamyellowTigrowingtextfieldModuleAssets.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/Objects-normal/i386/NetIamyellowTigrowingtextfieldView.o /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/Classes/NetIamyellowTigrowingtextfieldView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/Objects-normal/i386/NetIamyellowTigrowingtextfieldViewProxy.o /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/Classes/NetIamyellowTigrowingtextfieldViewProxy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/Objects-normal/x86_64/NetIamyellowTigrowingtextfieldModule.o /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/Classes/NetIamyellowTigrowingtextfieldModule.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/Objects-normal/x86_64/NetIamyellowTigrowingtextfieldModuleAssets.o /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/Classes/NetIamyellowTigrowingtextfieldModuleAssets.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/Objects-normal/x86_64/NetIamyellowTigrowingtextfieldView.o /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/Classes/NetIamyellowTigrowingtextfieldView.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/Objects-normal/x86_64/NetIamyellowTigrowingtextfieldViewProxy.o /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/Classes/NetIamyellowTigrowingtextfieldViewProxy.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/Objects-normal/i386/libNetIamyellowTigrowingtextfield.a normal i386
+cLibtool /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/Objects-normal/x86_64/libNetIamyellowTigrowingtextfield.a normal x86_64
+cCreateUniversalBinary /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/Release-iphonesimulator/libNetIamyellowTigrowingtextfield.a normal i386\ x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053119F8A0000000000000198
+t1393663882
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c0000000053CF52B200000000000003B4
+t1406096050
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000053CF52BA000000000000019E
+t1406096058
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000053CF52BF000000000088D8C0
+t1406096063
+s8968384
+
+N/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/Classes/NetIamyellowTigrowingtextfieldModule.m
+c000000005451D4B10000000000000447
+t1414649009
+s1095
+
+N/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/Classes/NetIamyellowTigrowingtextfieldModuleAssets.m
+c000000005451D4B10000000000000278
+t1414649009
+s632
+
+N/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/Classes/NetIamyellowTigrowingtextfieldView.m
+c000000005451E2AD0000000000001FCC
+t1414652589
+s8140
+
+N/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/Classes/NetIamyellowTigrowingtextfieldViewProxy.m
+c000000005451D4B100000000000004C1
+t1414649009
+s1217
+
+N/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/NetIamyellowTigrowingtextfield_Prefix.pch
+c000000005451D4B1000000000000003E
+t1414649009
+s62
+
+N/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/Release-iphonesimulator/libGrowingTextView.a
+c000000005451E2B40000000000056F70
+t1414652596
+s356208
+
+N/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/Release-iphonesimulator/libNetIamyellowTigrowingtextfield.a
+t2
+s0
+
+N/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/Objects-normal/i386/NetIamyellowTigrowingtextfield.LinkFileList
+c000000005451E2B40000000000000343
+t1414652596
+s835
+
+N/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/Objects-normal/i386/NetIamyellowTigrowingtextfieldModule.o
+t1414652597
+s10020
+
+N/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/Objects-normal/i386/NetIamyellowTigrowingtextfieldModuleAssets.o
+t1414652597
+s5196
+
+N/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/Objects-normal/i386/NetIamyellowTigrowingtextfieldView.o
+t1414652597
+s82900
+
+N/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/Objects-normal/i386/NetIamyellowTigrowingtextfieldViewProxy.o
+t1414652597
+s52380
+
+N/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/Objects-normal/i386/libNetIamyellowTigrowingtextfield.a
+t1414652597
+s318520
+
+N/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/Objects-normal/x86_64/NetIamyellowTigrowingtextfield.LinkFileList
+c000000005451E2B4000000000000034B
+t1414652596
+s843
+
+N/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/Objects-normal/x86_64/NetIamyellowTigrowingtextfieldModule.o
+t1414652597
+s10804
+
+N/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/Objects-normal/x86_64/NetIamyellowTigrowingtextfieldModuleAssets.o
+t1414652597
+s6004
+
+N/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/Objects-normal/x86_64/NetIamyellowTigrowingtextfieldView.o
+t1414652597
+s88824
+
+N/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/Objects-normal/x86_64/NetIamyellowTigrowingtextfieldViewProxy.o
+t1414652597
+s53808
+
+N/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/Objects-normal/x86_64/libNetIamyellowTigrowingtextfield.a
+t1414652597
+s350624
+
+N/var/folders/r7/glqfxst16sb1b1ldrq633_f80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/NetIamyellowTigrowingtextfield_Prefix-cpimiewdlampmkamhjnmzrhcoirw/NetIamyellowTigrowingtextfield_Prefix.pch.pch
+t1414652597
+s3236668
+
+N/var/folders/r7/glqfxst16sb1b1ldrq633_f80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/NetIamyellowTigrowingtextfield_Prefix-dyjxfqstqmazjxfycixxekgezdqn/NetIamyellowTigrowingtextfield_Prefix.pch.pch
+t1414652597
+s3232872
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesb2baed341a02ba41^d995ee341a02ba41^---0#1#1#--18"Check dependencies36"1FA11E67-7257-48E7-A875-E3D21FCF2FEA-
+
+CCompileC build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/Objects-normal/i386/NetIamyellowTigrowingtextfieldModule.o /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/Classes/NetIamyellowTigrowingtextfieldModule.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s436345397.199384
+e436345397.491978
+r1
+xCompileC
+xbuild/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/Objects-normal/i386/NetIamyellowTigrowingtextfieldModule.o
+x/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/Classes/NetIamyellowTigrowingtextfieldModule.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/Classes/NetIamyellowTigrowingtextfieldModule.m
+d/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/Classes/NetIamyellowTigrowingtextfieldModule.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiModule.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiProxy.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiBase.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/defines.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiThreading.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiPublicAPI.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiEvaluator.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/KrollContext.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/TiCore.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/Ti.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/TiBase.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/TiContextRef.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/TiObjectRef.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/TiValueRef.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/WebKitAvailability.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/TiStringRef.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/TiStringRefCF.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/TiContextRefPrivate.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/KrollCallback.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/KrollObject.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiBindingRunLoop.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiUtils.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiDimension.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiColor.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/WebFont.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiFile.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiBuffer.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiBlob.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiHost.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/Bridge.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiStylesheet.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection122"Compile /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/Classes/NetIamyellowTigrowingtextfieldModule.m262"CompileC build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/Objects-normal/i386/NetIamyellowTigrowingtextfieldModule.o Classes/NetIamyellowTigrowingtextfieldModule.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerb32533351a02ba41^861d7e351a02ba41^---0#0#1#-19%DVTDocumentLocation2@121"file:///Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/Classes/NetIamyellowTigrowingtextfieldModule.m0000000000000000^4470"CompileC build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/Objects-normal/i386/NetIamyellowTigrowingtextfieldModule.o Classes/NetIamyellowTigrowingtextfieldModule.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=4.0 -iquote /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/NetIamyellowTigrowingtextfield-generated-files.hmap -I/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/NetIamyellowTigrowingtextfield-own-target-headers.hmap -I/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/NetIamyellowTigrowingtextfield-all-target-headers.hmap -iquote /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/NetIamyellowTigrowingtextfield-project-headers.hmap -I/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/Release-iphonesimulator/include -I/Users/admin/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include -I/Users/admin/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore -I/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/DerivedSources/i386 -I/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/DerivedSources -F/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/Release-iphonesimulator -DTI_POST_1_2 -include /var/folders/r7/glqfxst16sb1b1ldrq633_f80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/NetIamyellowTigrowingtextfield_Prefix-dyjxfqstqmazjxfycixxekgezdqn/NetIamyellowTigrowingtextfield_Prefix.pch -MMD -MT dependencies -MF /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/Objects-normal/i386/NetIamyellowTigrowingtextfieldModule.d --serialize-diagnostics /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/Objects-normal/i386/NetIamyellowTigrowingtextfieldModule.dia -c /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/Classes/NetIamyellowTigrowingtextfieldModule.m -o /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/Objects-normal/i386/NetIamyellowTigrowingtextfieldModule.o36"4EE952D3-34F1-48DB-808C-4ABBB3572AEB-
+b0D185D3F-E2C8-46C6-8B75-C555681623ED
+
+CCompileC build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/Objects-normal/i386/NetIamyellowTigrowingtextfieldModuleAssets.o /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/Classes/NetIamyellowTigrowingtextfieldModuleAssets.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s436345397.199626
+e436345397.236311
+r1
+xCompileC
+xbuild/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/Objects-normal/i386/NetIamyellowTigrowingtextfieldModuleAssets.o
+x/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/Classes/NetIamyellowTigrowingtextfieldModuleAssets.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/Classes/NetIamyellowTigrowingtextfieldModuleAssets.m
+d/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/Classes/NetIamyellowTigrowingtextfieldModuleAssets.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection128"Compile /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/Classes/NetIamyellowTigrowingtextfieldModuleAssets.m274"CompileC build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/Objects-normal/i386/NetIamyellowTigrowingtextfieldModuleAssets.o Classes/NetIamyellowTigrowingtextfieldModuleAssets.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler793e33351a02ba41^86e43c351a02ba41^---0#0#1#-19%DVTDocumentLocation2@127"file:///Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/Classes/NetIamyellowTigrowingtextfieldModuleAssets.m0000000000000000^4506"CompileC build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/Objects-normal/i386/NetIamyellowTigrowingtextfieldModuleAssets.o Classes/NetIamyellowTigrowingtextfieldModuleAssets.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=4.0 -iquote /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/NetIamyellowTigrowingtextfield-generated-files.hmap -I/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/NetIamyellowTigrowingtextfield-own-target-headers.hmap -I/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/NetIamyellowTigrowingtextfield-all-target-headers.hmap -iquote /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/NetIamyellowTigrowingtextfield-project-headers.hmap -I/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/Release-iphonesimulator/include -I/Users/admin/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include -I/Users/admin/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore -I/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/DerivedSources/i386 -I/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/DerivedSources -F/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/Release-iphonesimulator -DTI_POST_1_2 -include /var/folders/r7/glqfxst16sb1b1ldrq633_f80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/NetIamyellowTigrowingtextfield_Prefix-dyjxfqstqmazjxfycixxekgezdqn/NetIamyellowTigrowingtextfield_Prefix.pch -MMD -MT dependencies -MF /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/Objects-normal/i386/NetIamyellowTigrowingtextfieldModuleAssets.d --serialize-diagnostics /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/Objects-normal/i386/NetIamyellowTigrowingtextfieldModuleAssets.dia -c /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/Classes/NetIamyellowTigrowingtextfieldModuleAssets.m -o /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/Objects-normal/i386/NetIamyellowTigrowingtextfieldModuleAssets.o36"D1399119-AE85-4989-A211-32FFA44826F3-
+b0D185D3F-E2C8-46C6-8B75-C555681623ED
+
+CCompileC build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/Objects-normal/i386/NetIamyellowTigrowingtextfieldView.o /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/Classes/NetIamyellowTigrowingtextfieldView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s436345397.200063
+e436345397.631222
+r1
+xCompileC
+xbuild/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/Objects-normal/i386/NetIamyellowTigrowingtextfieldView.o
+x/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/Classes/NetIamyellowTigrowingtextfieldView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/Classes/NetIamyellowTigrowingtextfieldView.m
+d/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/Classes/NetIamyellowTigrowingtextfieldView.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiUIView.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiProxy.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiBase.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/defines.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiThreading.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiPublicAPI.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiEvaluator.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/KrollContext.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/TiCore.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/Ti.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/TiBase.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/TiContextRef.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/TiObjectRef.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/TiValueRef.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/WebKitAvailability.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/TiStringRef.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/TiStringRefCF.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/TiContextRefPrivate.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/KrollCallback.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/KrollObject.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiBindingRunLoop.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiAnimation.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiPoint.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiDimension.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiColor.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/ListenerEntry.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiModule.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiUtils.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/WebFont.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiFile.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiBuffer.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiBlob.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/LayoutConstraint.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiGradient.h
+d/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/GrowingTextView/HPGrowingTextView.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiHost.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/Bridge.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiStylesheet.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiViewProxy.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiRect.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiViewTemplate.h
+o/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/Classes/NetIamyellowTigrowingtextfieldView.m:187:87: warning: local declaration of 'text' hides instance variable [-Wshadow-ivar]
+o  if ([TiUtils intValue:[[self proxy] valueForKey:@"backgroundLeftCap"] def:0]==1 && [text isEqualToString:@"\n"]) {  
+o                                                                                      ^
+o1 warning generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection120"Compile /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/Classes/NetIamyellowTigrowingtextfieldView.m258"CompileC build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/Objects-normal/i386/NetIamyellowTigrowingtextfieldView.o Classes/NetIamyellowTigrowingtextfieldView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerb66a33351a02ba41^b3b6a1351a02ba41^-426"/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/Classes/NetIamyellowTigrowingtextfieldView.m:187:87: warning: local declaration of 'text' hides instance variable [-Wshadow-ivar]  if ([TiUtils intValue:[[self proxy] valueForKey:@"backgroundLeftCap"] def:0]==1 && [text isEqualToString:@"\n"]) {                                                                                        ^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@51"Local declaration of 'text' hides instance variable-436345397#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@119"file:///Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/Classes/NetIamyellowTigrowingtextfieldView.m0000000000000000^186#86#186#86#7492#0#14"Semantic Issue--0#0#1#-19%DVTDocumentLocation4@119"file:///Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/Classes/NetIamyellowTigrowingtextfieldView.m0000000000000000^4458"CompileC build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/Objects-normal/i386/NetIamyellowTigrowingtextfieldView.o Classes/NetIamyellowTigrowingtextfieldView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=4.0 -iquote /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/NetIamyellowTigrowingtextfield-generated-files.hmap -I/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/NetIamyellowTigrowingtextfield-own-target-headers.hmap -I/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/NetIamyellowTigrowingtextfield-all-target-headers.hmap -iquote /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/NetIamyellowTigrowingtextfield-project-headers.hmap -I/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/Release-iphonesimulator/include -I/Users/admin/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include -I/Users/admin/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore -I/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/DerivedSources/i386 -I/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/DerivedSources -F/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/Release-iphonesimulator -DTI_POST_1_2 -include /var/folders/r7/glqfxst16sb1b1ldrq633_f80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/NetIamyellowTigrowingtextfield_Prefix-dyjxfqstqmazjxfycixxekgezdqn/NetIamyellowTigrowingtextfield_Prefix.pch -MMD -MT dependencies -MF /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/Objects-normal/i386/NetIamyellowTigrowingtextfieldView.d --serialize-diagnostics /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/Objects-normal/i386/NetIamyellowTigrowingtextfieldView.dia -c /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/Classes/NetIamyellowTigrowingtextfieldView.m -o /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/Objects-normal/i386/NetIamyellowTigrowingtextfieldView.o36"CD7E4D84-F8EA-4641-8745-2192A69C5BDE-
+b0D185D3F-E2C8-46C6-8B75-C555681623ED
+
+CCompileC build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/Objects-normal/i386/NetIamyellowTigrowingtextfieldViewProxy.o /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/Classes/NetIamyellowTigrowingtextfieldViewProxy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s436345397.201171
+e436345397.518583
+r1
+xCompileC
+xbuild/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/Objects-normal/i386/NetIamyellowTigrowingtextfieldViewProxy.o
+x/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/Classes/NetIamyellowTigrowingtextfieldViewProxy.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/Classes/NetIamyellowTigrowingtextfieldViewProxy.m
+d/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/Classes/NetIamyellowTigrowingtextfieldViewProxy.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiViewProxy.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiProxy.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiBase.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/defines.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiThreading.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiPublicAPI.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiEvaluator.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/KrollContext.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/TiCore.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/Ti.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/TiBase.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/TiContextRef.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/TiObjectRef.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/TiValueRef.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/WebKitAvailability.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/TiStringRef.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/TiStringRefCF.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/TiContextRefPrivate.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/KrollCallback.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/KrollObject.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiBindingRunLoop.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiUIView.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiAnimation.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiPoint.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiDimension.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiColor.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/ListenerEntry.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiModule.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiUtils.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/WebFont.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiFile.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiBuffer.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiBlob.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/LayoutConstraint.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiGradient.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiRect.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiViewTemplate.h
+d/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/Classes/NetIamyellowTigrowingtextfieldView.h
+d/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/GrowingTextView/HPGrowingTextView.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection125"Compile /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/Classes/NetIamyellowTigrowingtextfieldViewProxy.m268"CompileC build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/Objects-normal/i386/NetIamyellowTigrowingtextfieldViewProxy.o Classes/NetIamyellowTigrowingtextfieldViewProxy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilere7a833351a02ba41^a41b85351a02ba41^---0#0#1#-19%DVTDocumentLocation2@124"file:///Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/Classes/NetIamyellowTigrowingtextfieldViewProxy.m0000000000000000^4488"CompileC build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/Objects-normal/i386/NetIamyellowTigrowingtextfieldViewProxy.o Classes/NetIamyellowTigrowingtextfieldViewProxy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=4.0 -iquote /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/NetIamyellowTigrowingtextfield-generated-files.hmap -I/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/NetIamyellowTigrowingtextfield-own-target-headers.hmap -I/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/NetIamyellowTigrowingtextfield-all-target-headers.hmap -iquote /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/NetIamyellowTigrowingtextfield-project-headers.hmap -I/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/Release-iphonesimulator/include -I/Users/admin/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include -I/Users/admin/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore -I/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/DerivedSources/i386 -I/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/DerivedSources -F/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/Release-iphonesimulator -DTI_POST_1_2 -include /var/folders/r7/glqfxst16sb1b1ldrq633_f80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/NetIamyellowTigrowingtextfield_Prefix-dyjxfqstqmazjxfycixxekgezdqn/NetIamyellowTigrowingtextfield_Prefix.pch -MMD -MT dependencies -MF /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/Objects-normal/i386/NetIamyellowTigrowingtextfieldViewProxy.d --serialize-diagnostics /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/Objects-normal/i386/NetIamyellowTigrowingtextfieldViewProxy.dia -c /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/Classes/NetIamyellowTigrowingtextfieldViewProxy.m -o /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/Objects-normal/i386/NetIamyellowTigrowingtextfieldViewProxy.o36"1CC71E9D-2549-4DA0-B9D7-612B54717583-
+b0D185D3F-E2C8-46C6-8B75-C555681623ED
+
+CCompileC build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/Objects-normal/x86_64/NetIamyellowTigrowingtextfieldModule.o /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/Classes/NetIamyellowTigrowingtextfieldModule.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s436345397.236718
+e436345397.518141
+r1
+xCompileC
+xbuild/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/Objects-normal/x86_64/NetIamyellowTigrowingtextfieldModule.o
+x/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/Classes/NetIamyellowTigrowingtextfieldModule.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/Classes/NetIamyellowTigrowingtextfieldModule.m
+d/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/Classes/NetIamyellowTigrowingtextfieldModule.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiModule.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiProxy.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiBase.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/defines.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiThreading.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiPublicAPI.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiEvaluator.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/KrollContext.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/TiCore.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/Ti.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/TiBase.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/TiContextRef.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/TiObjectRef.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/TiValueRef.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/WebKitAvailability.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/TiStringRef.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/TiStringRefCF.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/TiContextRefPrivate.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/KrollCallback.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/KrollObject.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiBindingRunLoop.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiUtils.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiDimension.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiColor.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/WebFont.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiFile.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiBuffer.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiBlob.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiHost.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/Bridge.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiStylesheet.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection122"Compile /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/Classes/NetIamyellowTigrowingtextfieldModule.m266"CompileC build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/Objects-normal/x86_64/NetIamyellowTigrowingtextfieldModule.o Classes/NetIamyellowTigrowingtextfieldModule.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerd7c23c351a02ba41^441685351a02ba41^---0#0#1#-19%DVTDocumentLocation2@121"file:///Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/Classes/NetIamyellowTigrowingtextfieldModule.m0000000000000000^4481"CompileC build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/Objects-normal/x86_64/NetIamyellowTigrowingtextfieldModule.o Classes/NetIamyellowTigrowingtextfieldModule.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=4.0 -iquote /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/NetIamyellowTigrowingtextfield-generated-files.hmap -I/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/NetIamyellowTigrowingtextfield-own-target-headers.hmap -I/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/NetIamyellowTigrowingtextfield-all-target-headers.hmap -iquote /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/NetIamyellowTigrowingtextfield-project-headers.hmap -I/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/Release-iphonesimulator/include -I/Users/admin/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include -I/Users/admin/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore -I/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/DerivedSources/x86_64 -I/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/DerivedSources -F/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/Release-iphonesimulator -DTI_POST_1_2 -include /var/folders/r7/glqfxst16sb1b1ldrq633_f80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/NetIamyellowTigrowingtextfield_Prefix-cpimiewdlampmkamhjnmzrhcoirw/NetIamyellowTigrowingtextfield_Prefix.pch -MMD -MT dependencies -MF /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/Objects-normal/x86_64/NetIamyellowTigrowingtextfieldModule.d --serialize-diagnostics /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/Objects-normal/x86_64/NetIamyellowTigrowingtextfieldModule.dia -c /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/Classes/NetIamyellowTigrowingtextfieldModule.m -o /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/Objects-normal/x86_64/NetIamyellowTigrowingtextfieldModule.o36"CECC37B9-F55A-44E9-A09A-5750C69328AA-
+b0D185D3F-E2C8-46C6-8B75-C555681623ED
+
+CCompileC build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/Objects-normal/x86_64/NetIamyellowTigrowingtextfieldModuleAssets.o /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/Classes/NetIamyellowTigrowingtextfieldModuleAssets.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s436345397.492800
+e436345397.566321
+r1
+xCompileC
+xbuild/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/Objects-normal/x86_64/NetIamyellowTigrowingtextfieldModuleAssets.o
+x/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/Classes/NetIamyellowTigrowingtextfieldModuleAssets.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/Classes/NetIamyellowTigrowingtextfieldModuleAssets.m
+d/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/Classes/NetIamyellowTigrowingtextfieldModuleAssets.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection128"Compile /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/Classes/NetIamyellowTigrowingtextfieldModuleAssets.m278"CompileC build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/Objects-normal/x86_64/NetIamyellowTigrowingtextfieldModuleAssets.o Classes/NetIamyellowTigrowingtextfieldModuleAssets.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler354481351a02ba41^55fb90351a02ba41^---0#0#1#-19%DVTDocumentLocation2@127"file:///Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/Classes/NetIamyellowTigrowingtextfieldModuleAssets.m0000000000000000^4517"CompileC build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/Objects-normal/x86_64/NetIamyellowTigrowingtextfieldModuleAssets.o Classes/NetIamyellowTigrowingtextfieldModuleAssets.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=4.0 -iquote /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/NetIamyellowTigrowingtextfield-generated-files.hmap -I/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/NetIamyellowTigrowingtextfield-own-target-headers.hmap -I/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/NetIamyellowTigrowingtextfield-all-target-headers.hmap -iquote /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/NetIamyellowTigrowingtextfield-project-headers.hmap -I/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/Release-iphonesimulator/include -I/Users/admin/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include -I/Users/admin/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore -I/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/DerivedSources/x86_64 -I/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/DerivedSources -F/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/Release-iphonesimulator -DTI_POST_1_2 -include /var/folders/r7/glqfxst16sb1b1ldrq633_f80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/NetIamyellowTigrowingtextfield_Prefix-cpimiewdlampmkamhjnmzrhcoirw/NetIamyellowTigrowingtextfield_Prefix.pch -MMD -MT dependencies -MF /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/Objects-normal/x86_64/NetIamyellowTigrowingtextfieldModuleAssets.d --serialize-diagnostics /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/Objects-normal/x86_64/NetIamyellowTigrowingtextfieldModuleAssets.dia -c /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/Classes/NetIamyellowTigrowingtextfieldModuleAssets.m -o /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/Objects-normal/x86_64/NetIamyellowTigrowingtextfieldModuleAssets.o36"D0B7F80E-73B9-4066-843A-40E697AFE233-
+b0D185D3F-E2C8-46C6-8B75-C555681623ED
+
+CCompileC build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/Objects-normal/x86_64/NetIamyellowTigrowingtextfieldView.o /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/Classes/NetIamyellowTigrowingtextfieldView.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s436345397.519017
+e436345397.841431
+r1
+xCompileC
+xbuild/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/Objects-normal/x86_64/NetIamyellowTigrowingtextfieldView.o
+x/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/Classes/NetIamyellowTigrowingtextfieldView.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/Classes/NetIamyellowTigrowingtextfieldView.m
+d/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/Classes/NetIamyellowTigrowingtextfieldView.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiUIView.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiProxy.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiBase.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/defines.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiThreading.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiPublicAPI.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiEvaluator.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/KrollContext.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/TiCore.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/Ti.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/TiBase.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/TiContextRef.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/TiObjectRef.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/TiValueRef.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/WebKitAvailability.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/TiStringRef.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/TiStringRefCF.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/TiContextRefPrivate.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/KrollCallback.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/KrollObject.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiBindingRunLoop.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiAnimation.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiPoint.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiDimension.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiColor.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/ListenerEntry.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiModule.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiUtils.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/WebFont.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiFile.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiBuffer.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiBlob.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/LayoutConstraint.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiGradient.h
+d/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/GrowingTextView/HPGrowingTextView.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiHost.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/Bridge.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiStylesheet.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiViewProxy.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiRect.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiViewTemplate.h
+o/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/Classes/NetIamyellowTigrowingtextfieldView.m:54:37: warning: implicit conversion loses integer precision: 'NSInteger' (aka 'long') to 'int' [-Wshorten-64-to-32]
+o        textView.minNumberOfLines = minNumberOfLines;
+o                                  ~ ^~~~~~~~~~~~~~~~
+o/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/Classes/NetIamyellowTigrowingtextfieldView.m:55:37: warning: implicit conversion loses integer precision: 'NSInteger' (aka 'long') to 'int' [-Wshorten-64-to-32]
+o        textView.maxNumberOfLines = maxNumberOfLines;
+o                                  ~ ^~~~~~~~~~~~~~~~
+o/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/Classes/NetIamyellowTigrowingtextfieldView.m:187:87: warning: local declaration of 'text' hides instance variable [-Wshadow-ivar]
+o  if ([TiUtils intValue:[[self proxy] valueForKey:@"backgroundLeftCap"] def:0]==1 && [text isEqualToString:@"\n"]) {  
+o                                                                                      ^
+o3 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection120"Compile /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/Classes/NetIamyellowTigrowingtextfieldView.m262"CompileC build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/Objects-normal/x86_64/NetIamyellowTigrowingtextfieldView.o Classes/NetIamyellowTigrowingtextfieldView.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilera30485351a02ba41^c367d7351a02ba41^-1099"/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/Classes/NetIamyellowTigrowingtextfieldView.m:54:37: warning: implicit conversion loses integer precision: 'NSInteger' (aka 'long') to 'int' [-Wshorten-64-to-32]        textView.minNumberOfLines = minNumberOfLines;                                  ~ ^~~~~~~~~~~~~~~~/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/Classes/NetIamyellowTigrowingtextfieldView.m:55:37: warning: implicit conversion loses integer precision: 'NSInteger' (aka 'long') to 'int' [-Wshorten-64-to-32]        textView.maxNumberOfLines = maxNumberOfLines;                                  ~ ^~~~~~~~~~~~~~~~/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/Classes/NetIamyellowTigrowingtextfieldView.m:187:87: warning: local declaration of 'text' hides instance variable [-Wshadow-ivar]  if ([TiUtils intValue:[[self proxy] valueForKey:@"backgroundLeftCap"] def:0]==1 && [text isEqualToString:@"\n"]) {                                                                                        ^3 warnings generated.3(36%IDEClangDiagnosticActivityLogMessage2@78"Implicit conversion loses integer precision: 'NSInteger' (aka 'long') to 'int'-436345397#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@119"file:///Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/Classes/NetIamyellowTigrowingtextfieldView.m0000000000000000^53#36#53#36#1989#0#22"Value Conversion Issue2(3@119"file:///Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/Classes/NetIamyellowTigrowingtextfieldView.m0000000000000000^53#36#53#52#1989#0#3@119"file:///Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/Classes/NetIamyellowTigrowingtextfieldView.m0000000000000000^53#34#53#35#1987#0#-2@78"Implicit conversion loses integer precision: 'NSInteger' (aka 'long') to 'int'-436345397#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@119"file:///Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/Classes/NetIamyellowTigrowingtextfieldView.m0000000000000000^54#36#54#36#2043#0#22"Value Conversion Issue2(3@119"file:///Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/Classes/NetIamyellowTigrowingtextfieldView.m0000000000000000^54#36#54#52#2043#0#3@119"file:///Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/Classes/NetIamyellowTigrowingtextfieldView.m0000000000000000^54#34#54#35#2041#0#-2@51"Local declaration of 'text' hides instance variable-436345397#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@119"file:///Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/Classes/NetIamyellowTigrowingtextfieldView.m0000000000000000^186#86#186#86#7492#0#14"Semantic Issue--0#0#1#-19%DVTDocumentLocation4@119"file:///Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/Classes/NetIamyellowTigrowingtextfieldView.m0000000000000000^4469"CompileC build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/Objects-normal/x86_64/NetIamyellowTigrowingtextfieldView.o Classes/NetIamyellowTigrowingtextfieldView.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=4.0 -iquote /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/NetIamyellowTigrowingtextfield-generated-files.hmap -I/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/NetIamyellowTigrowingtextfield-own-target-headers.hmap -I/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/NetIamyellowTigrowingtextfield-all-target-headers.hmap -iquote /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/NetIamyellowTigrowingtextfield-project-headers.hmap -I/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/Release-iphonesimulator/include -I/Users/admin/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include -I/Users/admin/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore -I/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/DerivedSources/x86_64 -I/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/DerivedSources -F/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/Release-iphonesimulator -DTI_POST_1_2 -include /var/folders/r7/glqfxst16sb1b1ldrq633_f80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/NetIamyellowTigrowingtextfield_Prefix-cpimiewdlampmkamhjnmzrhcoirw/NetIamyellowTigrowingtextfield_Prefix.pch -MMD -MT dependencies -MF /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/Objects-normal/x86_64/NetIamyellowTigrowingtextfieldView.d --serialize-diagnostics /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/Objects-normal/x86_64/NetIamyellowTigrowingtextfieldView.dia -c /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/Classes/NetIamyellowTigrowingtextfieldView.m -o /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/Objects-normal/x86_64/NetIamyellowTigrowingtextfieldView.o36"FC7A54C6-679C-4B1F-9BDA-DD43CC9A76B1-
+b0D185D3F-E2C8-46C6-8B75-C555681623ED
+
+CCompileC build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/Objects-normal/x86_64/NetIamyellowTigrowingtextfieldViewProxy.o /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/Classes/NetIamyellowTigrowingtextfieldViewProxy.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s436345397.521882
+e436345397.793607
+r1
+xCompileC
+xbuild/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/Objects-normal/x86_64/NetIamyellowTigrowingtextfieldViewProxy.o
+x/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/Classes/NetIamyellowTigrowingtextfieldViewProxy.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/Classes/NetIamyellowTigrowingtextfieldViewProxy.m
+d/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/Classes/NetIamyellowTigrowingtextfieldViewProxy.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiViewProxy.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiProxy.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiBase.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/defines.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiThreading.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiPublicAPI.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiEvaluator.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/KrollContext.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/TiCore.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/Ti.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/TiBase.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/TiContextRef.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/TiObjectRef.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/TiValueRef.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/WebKitAvailability.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/TiStringRef.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/TiStringRefCF.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore/TiContextRefPrivate.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/KrollCallback.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/KrollObject.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiBindingRunLoop.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiUIView.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiAnimation.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiPoint.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiDimension.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiColor.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/ListenerEntry.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiModule.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiUtils.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/WebFont.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiFile.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiBuffer.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiBlob.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/LayoutConstraint.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiGradient.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiRect.h
+d/Users/admin/Library/Application Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiViewTemplate.h
+d/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/Classes/NetIamyellowTigrowingtextfieldView.h
+d/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/GrowingTextView/HPGrowingTextView.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection125"Compile /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/Classes/NetIamyellowTigrowingtextfieldViewProxy.m272"CompileC build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/Objects-normal/x86_64/NetIamyellowTigrowingtextfieldViewProxy.o Classes/NetIamyellowTigrowingtextfieldViewProxy.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler13ee85351a02ba41^f629cb351a02ba41^---0#0#1#-19%DVTDocumentLocation2@124"file:///Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/Classes/NetIamyellowTigrowingtextfieldViewProxy.m0000000000000000^4499"CompileC build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/Objects-normal/x86_64/NetIamyellowTigrowingtextfieldViewProxy.o Classes/NetIamyellowTigrowingtextfieldViewProxy.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=4.0 -iquote /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/NetIamyellowTigrowingtextfield-generated-files.hmap -I/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/NetIamyellowTigrowingtextfield-own-target-headers.hmap -I/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/NetIamyellowTigrowingtextfield-all-target-headers.hmap -iquote /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/NetIamyellowTigrowingtextfield-project-headers.hmap -I/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/Release-iphonesimulator/include -I/Users/admin/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include -I/Users/admin/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore -I/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/DerivedSources/x86_64 -I/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/DerivedSources -F/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/Release-iphonesimulator -DTI_POST_1_2 -include /var/folders/r7/glqfxst16sb1b1ldrq633_f80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/NetIamyellowTigrowingtextfield_Prefix-cpimiewdlampmkamhjnmzrhcoirw/NetIamyellowTigrowingtextfield_Prefix.pch -MMD -MT dependencies -MF /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/Objects-normal/x86_64/NetIamyellowTigrowingtextfieldViewProxy.d --serialize-diagnostics /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/Objects-normal/x86_64/NetIamyellowTigrowingtextfieldViewProxy.dia -c /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/Classes/NetIamyellowTigrowingtextfieldViewProxy.m -o /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/Objects-normal/x86_64/NetIamyellowTigrowingtextfieldViewProxy.o36"AF314754-44E7-4988-8D16-3A76D9A03A17-
+b0D185D3F-E2C8-46C6-8B75-C555681623ED
+
+CCreateUniversalBinary /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/Release-iphonesimulator/libNetIamyellowTigrowingtextfield.a normal i386\ x86_64
+s436345397.870621
+e436345397.894323
+r1
+xCreateUniversalBinary
+x/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/Release-iphonesimulator/libNetIamyellowTigrowingtextfield.a
+xnormal
+xi386 x86_64
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection157"Create universal binary /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/Release-iphonesimulator/libNetIamyellowTigrowingtextfield.a107"CreateUniversalBinary build/Release-iphonesimulator/libNetIamyellowTigrowingtextfield.a normal i386\ x86_6428f4de351a02ba41^23f3e4351a02ba41^---0#0#1#-19%DVTDocumentLocation2@140"file:///Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/Release-iphonesimulator/libNetIamyellowTigrowingtextfield.a00341003dfffdf42^1116"CreateUniversalBinary build/Release-iphonesimulator/libNetIamyellowTigrowingtextfield.a normal i386\ x86_64    cd /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/Objects-normal/i386/libNetIamyellowTigrowingtextfield.a /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/Objects-normal/x86_64/libNetIamyellowTigrowingtextfield.a -o /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/Release-iphonesimulator/libNetIamyellowTigrowingtextfield.a36"5D5F5A82-ADF9-477B-8A2D-CB8F741FAF00-
+b0D185D3F-E2C8-46C6-8B75-C555681623ED
+
+CLibtool /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/Objects-normal/i386/libNetIamyellowTigrowingtextfield.a normal i386
+s436345397.842408
+e436345397.869560
+r1
+xLibtool
+x/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/Objects-normal/i386/libNetIamyellowTigrowingtextfield.a
+xnormal
+xi386
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection155"Libtool build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/Objects-normal/i386/libNetIamyellowTigrowingtextfield.a normal i386155"Libtool build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/Objects-normal/i386/libNetIamyellowTigrowingtextfield.a normal i38626c5d7351a02ba41^d89dde351a02ba41^-159"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC -0#0#1#--1378"Libtool build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/Objects-normal/i386/libNetIamyellowTigrowingtextfield.a normal i386    cd /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField    export IPHONEOS_DEPLOYMENT_TARGET=4.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/Release-iphonesimulator -filelist /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/Objects-normal/i386/NetIamyellowTigrowingtextfield.LinkFileList -ObjC -lGrowingTextView -framework Foundation -o /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/Objects-normal/i386/libNetIamyellowTigrowingtextfield.a36"86FE7D73-27D8-4F31-A1EA-2087DA1E7CB2-
+b0D185D3F-E2C8-46C6-8B75-C555681623ED
+
+CLibtool /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/Objects-normal/x86_64/libNetIamyellowTigrowingtextfield.a normal x86_64
+s436345397.842790
+e436345397.870153
+r1
+xLibtool
+x/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/Objects-normal/x86_64/libNetIamyellowTigrowingtextfield.a
+xnormal
+xx86_64
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection159"Libtool build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/Objects-normal/x86_64/libNetIamyellowTigrowingtextfield.a normal x86_64159"Libtool build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/Objects-normal/x86_64/libNetIamyellowTigrowingtextfield.a normal x86_6467d5d7351a02ba41^65c3de351a02ba41^-159"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC -0#0#1#--1388"Libtool build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/Objects-normal/x86_64/libNetIamyellowTigrowingtextfield.a normal x86_64    cd /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField    export IPHONEOS_DEPLOYMENT_TARGET=4.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only x86_64 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/Release-iphonesimulator -filelist /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/Objects-normal/x86_64/NetIamyellowTigrowingtextfield.LinkFileList -ObjC -lGrowingTextView -framework Foundation -o /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/Objects-normal/x86_64/libNetIamyellowTigrowingtextfield.a36"90B30AFC-FA6C-4C52-8097-AEA46D920559-
+b0D185D3F-E2C8-46C6-8B75-C555681623ED
+
+CProcessPCH /var/folders/r7/glqfxst16sb1b1ldrq633_f80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/NetIamyellowTigrowingtextfield_Prefix-cpimiewdlampmkamhjnmzrhcoirw/NetIamyellowTigrowingtextfield_Prefix.pch.pch NetIamyellowTigrowingtextfield_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s436345396.932937
+e436345397.182447
+r1
+xProcessPCH
+x/var/folders/r7/glqfxst16sb1b1ldrq633_f80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/NetIamyellowTigrowingtextfield_Prefix-cpimiewdlampmkamhjnmzrhcoirw/NetIamyellowTigrowingtextfield_Prefix.pch.pch
+xNetIamyellowTigrowingtextfield_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/NetIamyellowTigrowingtextfield_Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection52"Precompile NetIamyellowTigrowingtextfield_Prefix.pch353"ProcessPCH /var/folders/r7/glqfxst16sb1b1ldrq633_f80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/NetIamyellowTigrowingtextfield_Prefix-cpimiewdlampmkamhjnmzrhcoirw/NetIamyellowTigrowingtextfield_Prefix.pch.pch NetIamyellowTigrowingtextfield_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler13f1ee341a02ba41^3db52e351a02ba41^---0#0#1#-19%DVTDocumentLocation2@116"file:///Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/NetIamyellowTigrowingtextfield_Prefix.pch0000000000000000^4396"ProcessPCH /var/folders/r7/glqfxst16sb1b1ldrq633_f80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/NetIamyellowTigrowingtextfield_Prefix-cpimiewdlampmkamhjnmzrhcoirw/NetIamyellowTigrowingtextfield_Prefix.pch.pch NetIamyellowTigrowingtextfield_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=4.0 -iquote /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/NetIamyellowTigrowingtextfield-generated-files.hmap -I/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/NetIamyellowTigrowingtextfield-own-target-headers.hmap -I/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/NetIamyellowTigrowingtextfield-all-target-headers.hmap -iquote /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/NetIamyellowTigrowingtextfield-project-headers.hmap -I/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/Release-iphonesimulator/include -I/Users/admin/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include -I/Users/admin/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore -I/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/DerivedSources/x86_64 -I/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/DerivedSources -F/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/Release-iphonesimulator -DTI_POST_1_2 --serialize-diagnostics /var/folders/r7/glqfxst16sb1b1ldrq633_f80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/NetIamyellowTigrowingtextfield_Prefix-cpimiewdlampmkamhjnmzrhcoirw/NetIamyellowTigrowingtextfield_Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/r7/glqfxst16sb1b1ldrq633_f80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/NetIamyellowTigrowingtextfield_Prefix-cpimiewdlampmkamhjnmzrhcoirw/NetIamyellowTigrowingtextfield_Prefix.pch.d -c /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/NetIamyellowTigrowingtextfield_Prefix.pch -o /var/folders/r7/glqfxst16sb1b1ldrq633_f80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/NetIamyellowTigrowingtextfield_Prefix-cpimiewdlampmkamhjnmzrhcoirw/NetIamyellowTigrowingtextfield_Prefix.pch.pch36"0C012FB9-A30C-4E82-A753-8A0D34760064-
+b0D185D3F-E2C8-46C6-8B75-C555681623ED
+
+CProcessPCH /var/folders/r7/glqfxst16sb1b1ldrq633_f80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/NetIamyellowTigrowingtextfield_Prefix-dyjxfqstqmazjxfycixxekgezdqn/NetIamyellowTigrowingtextfield_Prefix.pch.pch NetIamyellowTigrowingtextfield_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s436345396.932634
+e436345397.198638
+r1
+xProcessPCH
+x/var/folders/r7/glqfxst16sb1b1ldrq633_f80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/NetIamyellowTigrowingtextfield_Prefix-dyjxfqstqmazjxfycixxekgezdqn/NetIamyellowTigrowingtextfield_Prefix.pch.pch
+xNetIamyellowTigrowingtextfield_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/NetIamyellowTigrowingtextfield_Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection52"Precompile NetIamyellowTigrowingtextfield_Prefix.pch351"ProcessPCH /var/folders/r7/glqfxst16sb1b1ldrq633_f80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/NetIamyellowTigrowingtextfield_Prefix-dyjxfqstqmazjxfycixxekgezdqn/NetIamyellowTigrowingtextfield_Prefix.pch.pch NetIamyellowTigrowingtextfield_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler43e2ee341a02ba41^0adc32351a02ba41^---0#0#1#-19%DVTDocumentLocation2@116"file:///Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/NetIamyellowTigrowingtextfield_Prefix.pch0000000000000000^4393"ProcessPCH /var/folders/r7/glqfxst16sb1b1ldrq633_f80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/NetIamyellowTigrowingtextfield_Prefix-dyjxfqstqmazjxfycixxekgezdqn/NetIamyellowTigrowingtextfield_Prefix.pch.pch NetIamyellowTigrowingtextfield_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=4.0 -iquote /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/NetIamyellowTigrowingtextfield-generated-files.hmap -I/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/NetIamyellowTigrowingtextfield-own-target-headers.hmap -I/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/NetIamyellowTigrowingtextfield-all-target-headers.hmap -iquote /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/NetIamyellowTigrowingtextfield-project-headers.hmap -I/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/Release-iphonesimulator/include -I/Users/admin/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include -I/Users/admin/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.3.GA/iphone/include/TiCore -I/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/DerivedSources/i386 -I/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/tigrowingtextfield.build/Release-iphonesimulator/TiGrowingTextField.build/DerivedSources -F/Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/build/Release-iphonesimulator -DTI_POST_1_2 --serialize-diagnostics /var/folders/r7/glqfxst16sb1b1ldrq633_f80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/NetIamyellowTigrowingtextfield_Prefix-dyjxfqstqmazjxfycixxekgezdqn/NetIamyellowTigrowingtextfield_Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/r7/glqfxst16sb1b1ldrq633_f80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/NetIamyellowTigrowingtextfield_Prefix-dyjxfqstqmazjxfycixxekgezdqn/NetIamyellowTigrowingtextfield_Prefix.pch.d -c /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/NetIamyellowTigrowingtextfield_Prefix.pch -o /var/folders/r7/glqfxst16sb1b1ldrq633_f80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/NetIamyellowTigrowingtextfield_Prefix-dyjxfqstqmazjxfycixxekgezdqn/NetIamyellowTigrowingtextfield_Prefix.pch.pch36"47311014-CBE6-4634-A621-165091C2FAE0-
+b0D185D3F-E2C8-46C6-8B75-C555681623ED
+
