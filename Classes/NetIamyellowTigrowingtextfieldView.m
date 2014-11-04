@@ -32,7 +32,7 @@
 -(void)frameSizeChanged:(CGRect)frame bounds:(CGRect)bounds
 {
     if (bounds.size.width == 0 || bounds.size.height == 0) {
-    	textView.internalTextView.editable = NO;
+        textView.internalTextView.editable = NO;
         return;
     }
     if (textView == nil) {
@@ -43,9 +43,9 @@
         textView = [[HPGrowingTextView alloc] initWithFrame:CGRectMake(0, topCorrectionPadding,
                                                                        frame.size.width, frame.size.height)];
         textView.text = text ? text : @"";
-
-		
-
+        
+        
+        
         // become first responder
         if ([TiUtils boolValue:[[self proxy] valueForKey:@"showKeyboardImmediately"] def:NO]) {
             [textView becomeFirstResponder];
@@ -61,7 +61,7 @@
         CGFloat sidesPadding = [TiUtils floatValue:[[self proxy] valueForKey:@"sidesPadding"] def:0.0f];
         textView.contentInset = UIEdgeInsetsMake(0, 0, 0, 0);
         textView.internalTextView.scrollIndicatorInsets = UIEdgeInsetsMake(0, 0, 0, 0);
-
+        
         // return key type
         NSInteger wew = [TiUtils intValue:[[self proxy] valueForKey:@"wew"] def:0]>0 ? UIReturnKeySend : UIReturnKeyDefault;
         textView.returnKeyType = wew;
@@ -77,12 +77,12 @@
         // autocorrect
         BOOL autocorrect = [TiUtils boolValue:[[self proxy] valueForKey:@"autocorrect"] def:NO];
         textView.internalTextView.autocorrectionType = autocorrect ? UITextAutocorrectionTypeYes : UITextAutocorrectionTypeNo;
-
+        
         // scrollsToTop
         BOOL scrollsToTop = [TiUtils boolValue:[[self proxy] valueForKey:@"scrollsToTop"] def:YES];
         textView.internalTextView.scrollsToTop = scrollsToTop;
         
-
+        
         
         // colors
         id pBackgroundColor = [[self proxy] valueForKey:@"backgroundColor"];
@@ -109,15 +109,20 @@
         
         // add the text view
         [self addSubview: textView];
-
-
-		TiProxy* proxy = [self proxy];
-	    if ([proxy _hasListeners:@"loaded"]) {
-	        [proxy fireEvent:@"loaded" withObject:nil];
-	    }
-
-		
-
+        
+        [textView sizeToFit];
+    	[textView layoutIfNeeded];
+        [textView.internalTextView sizeToFit];
+    	[textView.internalTextView layoutIfNeeded];
+        
+        
+        TiProxy* proxy = [self proxy];
+        if ([proxy _hasListeners:@"loaded"]) {
+            [proxy fireEvent:@"loaded" withObject:nil];
+        }
+        
+        
+        
         // entry background image
         id pEntryImage = [[self proxy] valueForKey:@"backgroundImage"];
         if (pEntryImage) {
@@ -140,7 +145,7 @@
             textViewFrame.size.width = frame.size.width;
             textView.frame = textViewFrame;
         }
-
+        
         CGRect entryImageViewFrame = entryImageView.frame;
         entryImageViewFrame.size = frame.size;
         entryImageView.frame = entryImageViewFrame;
@@ -156,12 +161,12 @@
 
 -(BOOL)growingTextViewShouldBeginEditing:(HPGrowingTextView *)growingTextView
 {
-        // return key type
-        NSInteger wew = [TiUtils intValue:[[self proxy] valueForKey:@"wew"] def:0]>0 ? UIReturnKeySend : UIReturnKeyDefault;
-        textView.returnKeyType = wew;
-        
-        
-        return YES;
+    // return key type
+    NSInteger wew = [TiUtils intValue:[[self proxy] valueForKey:@"wew"] def:0]>0 ? UIReturnKeySend : UIReturnKeyDefault;
+    textView.returnKeyType = wew;
+    
+    
+    return YES;
 }
 
 
@@ -192,6 +197,10 @@
         [event setObject:NUMINT(textView.internalTextView.contentSize.height / textView.internalTextView.font.lineHeight) forKey:@"lines"];
         [proxy fireEvent:@"change" withObject:event];
     }
+    
+
+    
+    
 }
 
 -(void)growingTextViewDidBeginEditing:(HPGrowingTextView *)growingTextView
@@ -207,24 +216,42 @@
     TiProxy* proxy = [self proxy];
     if ([proxy _hasListeners:@"blur"]) {
         [proxy fireEvent:@"blur" withObject:nil];
-    }    
+    }
 }
 
 -(BOOL)growingTextView:(HPGrowingTextView *)growingTextView shouldChangeTextInRange:(NSRange)range replacementText:(NSString *)text
-{  
-  BOOL shouldChangeText = YES;  
-  
-  if ([TiUtils intValue:[[self proxy] valueForKey:@"wow"] def:0]==1 && [text isEqualToString:@"\n"]) {  
-   	TiProxy* proxy = [self proxy];
-    if ([proxy _hasListeners:@"return"]) {
-        [proxy fireEvent:@"return" withObject:nil];
-        /*textView.text = @"";*/
-    }   
-    shouldChangeText = NO;  
-  }  
+{
+    BOOL shouldChangeText = YES;
+    
+    if ([TiUtils intValue:[[self proxy] valueForKey:@"wow"] def:0]==1 && [text isEqualToString:@"\n"]) {
+        TiProxy* proxy = [self proxy];
+        if ([proxy _hasListeners:@"return"]) {
+            [proxy fireEvent:@"return" withObject:nil];
+            /*textView.text = @"";*/
+        }
+        shouldChangeText = NO;
+    } else 
+    if([text isEqualToString:@"\n"]){
+     	TiProxy* proxy = [self proxy];
+	    if ((textView.internalTextView.contentSize.height / textView.internalTextView.font.lineHeight)>=2 && (textView.internalTextView.contentSize.height / textView.internalTextView.font.lineHeight)<3) {
+	        textView.text = [textView.text stringByAppendingString:@"\n"];
+	        [textView scrollRangeToVisible:NSMakeRange(textView.text.length, 0)];
+	        
+	        if([proxy _hasListeners:@"line_3"]){
+	         	[proxy fireEvent:@"line_3" withObject:nil];
+	        }
+	        shouldChangeText = NO;
+    	} 
+    }
+    
+    return shouldChangeText;
+}
 
-  return shouldChangeText;  
-} 
+
+
+
+
+
 
 
 #pragma mark public API

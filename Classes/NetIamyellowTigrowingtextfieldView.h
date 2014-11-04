@@ -21,6 +21,7 @@
     HPGrowingTextView* textView;
     UIImageView* entryImageView;
     NSString* text;
+
     CGFloat userHeight;
     CGFloat viewHeight;
     CGFloat lastWidth;

@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/GrowingTextView/HPTextViewInternal.m \
-  /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/GrowingTextView/HPTextViewInternal.h
+  /Users/tokikawateppei/Documents/Titanium_Studio_Workspace/TiGrowingTextField/GrowingTextView/HPTextViewInternal.m \
+  /Users/tokikawateppei/Documents/Titanium_Studio_Workspace/TiGrowingTextField/GrowingTextView/HPTextViewInternal.h

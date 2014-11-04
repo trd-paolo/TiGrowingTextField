@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/Classes/NetIamyellowTigrowingtextfieldModuleAssets.m \
-  /Users/admin/Documents/Titanium_Studio_Workspace/TiGrowingTextField/Classes/NetIamyellowTigrowingtextfieldModuleAssets.h
+  /Users/tokikawateppei/Documents/Titanium_Studio_Workspace/TiGrowingTextField/Classes/NetIamyellowTigrowingtextfieldModuleAssets.m \
+  /Users/tokikawateppei/Documents/Titanium_Studio_Workspace/TiGrowingTextField/Classes/NetIamyellowTigrowingtextfieldModuleAssets.h
